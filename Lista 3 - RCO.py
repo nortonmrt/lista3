@@ -2,6 +2,7 @@
 # coding: utf-8
 
 # # Lista 3 - RCO
+# i am doing something here
 
 # Autor: Norton Martin Reichert Trennepohl
 
